@@ -14,7 +14,7 @@ This project demonstrates hands-on experience with virtualization and server dep
 - Verified successful OS installation and system functionality
   
     ## 📸 Screenshots
- ![Hyper](Hyper.png)
+ ![Hyper](Wserver.png)
 
 
 ---
