@@ -23,7 +23,7 @@ This project demonstrates hands-on experience with virtualization and server dep
 - Connected to and managed the ESXi host through its interface
 
     ## 📸 Screenshots
- ![Dell](Hyper.png)
+ ![Hyper](Hyper.png)
 
 ---
 
