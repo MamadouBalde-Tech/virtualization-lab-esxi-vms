@@ -13,8 +13,6 @@ This project demonstrates hands-on experience with virtualization and server dep
 - Configured CPU, RAM, and storage resources for each virtual machine
 - Verified successful OS installation and system functionality
 
-  ## 📸 Screenshots
-
 
 ---
 
@@ -23,6 +21,9 @@ This project demonstrates hands-on experience with virtualization and server dep
 - Installed ESXi hypervisor on a physical server
 - Configured initial network settings for remote access
 - Connected to and managed the ESXi host through its interface
+
+    ## 📸 Screenshots
+ ![Dell](Hyper.png)
 
 ---
 
