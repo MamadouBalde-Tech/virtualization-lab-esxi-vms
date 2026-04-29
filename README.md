@@ -13,6 +13,9 @@ This project demonstrates hands-on experience with virtualization and server dep
 - Configured CPU, RAM, and storage resources for each virtual machine
 - Verified successful OS installation and system functionality
 
+  ## 📸 Screenshots
+
+
 ---
 
 ### ESXi Hypervisor Installation
@@ -47,5 +50,4 @@ This project demonstrates hands-on experience with virtualization and server dep
 
 ---
 
-## 📸 Screenshots
-(Add your screenshots here)
+
