@@ -12,8 +12,9 @@ This project demonstrates hands-on experience with virtualization and server dep
 - Installed Windows 10, Windows Server 2019, and Ubuntu Linux in virtual environments
 - Configured CPU, RAM, and storage resources for each virtual machine
 - Verified successful OS installation and system functionality
+  
     ## 📸 Screenshots
- ![WServer](WServer.png)
+ ![Hyper](Hyper.png)
 
 
 ---
