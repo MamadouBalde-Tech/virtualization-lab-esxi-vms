@@ -37,7 +37,7 @@ This project demonstrates hands-on experience with virtualization and server dep
 - Allocated system resources and tested VM performance
 
      ## 📸 Screenshots
- ![Hyper](Hyper.png)
+ ![Hyper](VStorage.png)
 
 ---
 
