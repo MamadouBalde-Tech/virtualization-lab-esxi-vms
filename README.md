@@ -36,6 +36,9 @@ This project demonstrates hands-on experience with virtualization and server dep
 - Created and deployed virtual machines within ESXi
 - Allocated system resources and tested VM performance
 
+     ## 📸 Screenshots
+ ![Hyper](Hyper.png)
+
 ---
 
 ## 🛠 Tools & Technologies
